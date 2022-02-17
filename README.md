@@ -6,7 +6,7 @@ Sou graduada em estatística pela Universidade Federal de Pernambuco (UFPE), pó
 
 Atualmente sou Cientista de Dados Júnior na PicPay e faço parte da squad de Personalização/Recomendação na tribo de SuperApp. Anteriormente, atuei como Cientista de Dados na Neurotech, trabalhando na criação de modelos (CreditScoring) e produtos escaláveis para resolver problemas de negócios.
 
-Neste repositório você encontrará meus projetos de Ciência de Dados que aos poucos estou elaborando. Muito possivelmente os projetos aqui postados serão sobre sistemas de recomendação ou modelos de risco de crédito (por enquanto!). 
+Neste repositório você encontrará meus projetos de Ciência de Dados que aos poucos estou elaborando. 
 
 
 Contato: renatakms2@gmail.com
