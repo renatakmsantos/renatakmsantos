@@ -1,10 +1,6 @@
 ### Olá 👋
 
-Prazer, Renata Santos.
 
-Sou graduada em estatística pela Universidade Federal de Pernambuco (UFPE), pós graduada em Ciência de Dados e Analytics pela Universidade de Pernambuco (UPE - POLI) e continuo estudando Ciência de Dados. 
-
-Neste repositório você encontrará meus projetos de Ciência de Dados que nas horas vagas estou elaborando. 
 
 
 Contato: renatakms2@gmail.com
