@@ -8,7 +8,7 @@ Contato: renatakms2@gmail.com
 Linkedin: https://www.linkedin.com/in/renatakmsantos/
 
 
-      <style>
+ <style>
         .libutton {
           display: flex;
           flex-direction: column;
@@ -24,5 +24,5 @@ Linkedin: https://www.linkedin.com/in/renatakmsantos/
           background-color: #0A66C2;
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
-      </style>
+</style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=renatakmsantos" target="_blank">Follow on LinkedIn</a>
