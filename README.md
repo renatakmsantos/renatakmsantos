@@ -32,7 +32,7 @@
 *Tive como objetivo mostrar como essas duas áreas estão intimamente conectadas e como a estatística é um diferencial competitivo de peso na carreira de ciência de dados.*
 
 
-## Hard Skills
+## Hard Skills 🧠
 
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -42,22 +42,19 @@
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) [Alguns dos projetos em R :)](https://keepo.io/renatasantos/) 
 
-![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-**Em busca de mais conhecimento** 
 
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 **Ferramentas de Desenvolvimento**
@@ -73,14 +70,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   
+**Em busca de mais conhecimento em:** 
 
- ## Contatos 🤝
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-E-mail: renatakms2@gmail.com
 
-[Follow on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=renatakmsantos) 
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## Onde me encontrar :earth_americas:
 
 [![Linkedin: renatakmsantos](https://img.shields.io/badge/-renatakmsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatakmsantos/)](https://www.linkedin.com/in/renatakmsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-renatakms2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatakms2@gmail.com)](mailto:renatakms2@gmail.com)
