@@ -14,8 +14,8 @@
 
 ## Atuação Profissional e Voluntária 👩‍💻💻
 
-* Cientista de Dados Pl. - **Blueshift Brasil** (2022)
-* Conselheira Estratégica - **Fisher Consultoria Estatística** (2022) [Voluntário ♡]
+* Cientista de Dados Pl. - **Blueshift Brasil** (2022 até o momento)
+* Conselheira Estratégica - **Fisher Consultoria Estatística** (2022 até o momento) [Voluntário ♡]
 * Cientista de Dados Jr. - **PicPay** (2021 - 2022)
 * Cientista de Dados Jr. - **Neurotech** (2019 - 2021)
 * Diretora Presidente & Co-fundadora - **Fisher Consultoria Estatística** - Empresa Júnior de Estatística da UFPE (2018 - 2019) [Voluntário ♡]
