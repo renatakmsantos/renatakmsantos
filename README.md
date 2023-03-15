@@ -31,6 +31,11 @@ Bem vinde !
 *Tive como objetivo mostrar como essas duas áreas estão intimamente conectadas e como a estatística é um diferencial competitivo de peso na carreira de ciência de dados.*
 
 
+## Hard Skills
+
+[![renatakmsantos](https://github-readme-stats.vercel.app/api/top-langs/?username=renatakmsantos&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
  ## Contatos 🤝
 
 E-mail: renatakms2@gmail.com
