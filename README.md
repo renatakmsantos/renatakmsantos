@@ -33,7 +33,11 @@ Bem vinde !
 
 ## Hard Skills
 
+**Ferramentas de Desenvolvimento**
 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,4 +52,10 @@ Bem vinde !
 E-mail: renatakms2@gmail.com
 
 [Follow on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=renatakmsantos) 
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: renatakmsantos](https://img.shields.io/badge/-renatakmsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatakmsantos/)](https://www.linkedin.com/in/renatakmsantos/)
+[![Gmail Badge](https://img.shields.io/badge/-renatakms2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatakms2@gmail.com)](mailto:renatakms2@gmail.com)
+[![GitHub Renata Santos]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/renatakmsantos)
 
