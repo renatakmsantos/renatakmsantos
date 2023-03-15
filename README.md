@@ -84,5 +84,4 @@ E-mail: renatakms2@gmail.com
 
 [![Linkedin: renatakmsantos](https://img.shields.io/badge/-renatakmsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatakmsantos/)](https://www.linkedin.com/in/renatakmsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-renatakms2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatakms2@gmail.com)](mailto:renatakms2@gmail.com)
-[![GitHub Renata Santos]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/renatakmsantos)
 
