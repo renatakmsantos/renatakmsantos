@@ -1,9 +1,10 @@
-## Olá 👋😸
+## 👋😸 Olá, meu nome é <strong>Renata!</strong>
 
+> De uma coisa eu tenho certeza: em tudo de ciência de dados tem estatística. 
 
-Bem vinde !
+🔭 Atualmente estou trabalhando e apreciando projetos na área de serviços financeiros (Credit Scoring, Behaviour Scoring, Collection Scoring...)
 
-
+💬 Mesmo trabalhando e apreciando algumas coisas, sou muito curiosa para outras coisas. Como por exemplo: Problemas de precificação, clusterização e previsão de renda.  
 
 ## Formação Acadêmica 🎓
 
@@ -12,7 +13,7 @@ Bem vinde !
 * Bacharel em Estatística - **UFPE** (2014 - 2019)
 
 ## Atuação Profissional e Voluntária 👩‍💻💻
---
+
 * Cientista de Dados Pl. - **Blueshift Brasil** (2022)
 * Conselheira Estratégica - **Fisher Consultoria Estatística** (2022) [Voluntário ♡]
 * Cientista de Dados Jr. - **PicPay** (2021 - 2022)
