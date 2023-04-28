@@ -4,7 +4,7 @@
 
 🔭 Atualmente estou trabalhando e apreciando projetos na área de serviços financeiros.
 
-💬 Mesmo trabalhando e apreciando algumas coisas, sou muito curiosa para outras coisas. Como por exemplo: Problemas de precificação, clusterização e previsão de renda.  
+💬 Tenho interesse em problemas de precificação, clusterização e previsão de renda. Além dos problemas de creditscore, behaviourscore (...) nos quais já tenho experiência.   
 
 ## Formação Acadêmica 🎓
 
