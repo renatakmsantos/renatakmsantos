@@ -2,7 +2,7 @@
 
 > De uma coisa eu tenho certeza: em tudo de ciência de dados tem estatística. 
 
-🔭 Atualmente estou trabalhando e apreciando projetos na área de serviços financeiros (Credit Scoring, Behaviour Scoring, Collection Scoring...)
+🔭 Atualmente estou trabalhando e apreciando projetos na área de serviços financeiros.
 
 💬 Mesmo trabalhando e apreciando algumas coisas, sou muito curiosa para outras coisas. Como por exemplo: Problemas de precificação, clusterização e previsão de renda.  
 
