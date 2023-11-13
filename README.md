@@ -1,6 +1,4 @@
-## 👋😸 Olá, meu nome é <strong>Renata!</strong>
-
-> De uma coisa eu tenho certeza: em tudo de ciência de dados tem estatística. 
+## 👋😸  Oi ;D </strong>
 
 🔭 Atualmente estou trabalhando e apreciando projetos na área de serviços financeiros.
 
@@ -8,13 +6,14 @@
 
 ## Formação Acadêmica 🎓
 
-* MBA em Ciência de Dados - **XP Educação** (2022 até o momento)
+* MBA em Ciência de Dados - **XP Educação** (2022 - 2023)
 * Especialização em Ciência de Dados e Analytics - **UPE** (2020 - 2022)
 * Bacharel em Estatística - **UFPE** (2014 - 2019)
 
 ## Atuação Profissional e Voluntária 👩‍💻💻
 
-* Cientista de Dados Pl. - **Blueshift Brasil** (2022 até o momento)
+* Cientista de Dados Pl. - **Will Bank** (atual)
+* Cientista de Dados Pl. - **Blueshift Brasil** (2022 - 2023)
 * Conselheira Estratégica - **Fisher Consultoria Estatística** (2022 até o momento) [Voluntário ♡]
 * Cientista de Dados Jr. - **PicPay** (2021 - 2022)
 * Cientista de Dados Jr. - **Neurotech** (2019 - 2021)
